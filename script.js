@@ -3,7 +3,7 @@
             { name: 'Perfil 1', image: 'assets/Perfil-1.jpeg' },
             { name: 'Perfil 2', image: 'assets/Perfil-2.jpeg' },
             { name: 'Perfil 3', image: 'assets/perfil-3' },
-            { name: 'Perfil 4', image: 'assets/perfil-4.jpg' }
+            { name: 'Perfil 4', image: 'assets/Perfil-4.jpg' }
         ];
 
         // Função para renderizar perfis na página principal
